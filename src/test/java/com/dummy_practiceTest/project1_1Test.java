@@ -19,5 +19,6 @@ public class project1_1Test  {
 	@Test(groups="regression")
 	public void practice3test() {
 		Reporter.log("TestNgPractice1----> Test3",true);
+		Reporter.log("Hi");
 	}
 }
